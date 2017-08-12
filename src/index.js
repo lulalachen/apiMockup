@@ -21,8 +21,8 @@ Object.entries(apiMockup)
     log(chalk.gray(JSON.stringify(req.query, ' ', 2)))
     log(chalk.bold('--------------------------'))
     res.status(200).send({
-      "message": "格式錯誤",
-      "error": "false",
+      "message": "success",
+      "error": false,
       "data": value,
     })
   })
