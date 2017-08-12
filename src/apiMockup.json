@@ -1,0 +1,14 @@
+{
+  "GET /admin/api/tag": {
+    "tagName": "apweofk",
+    "poka": "noka"
+  },
+  "PUT /admin/api/tag": {
+    "tagName": "apweofk",
+    "poka": "noka"
+  },
+  "POST /admin/api/tag": {
+    "tagName": "apweofk",
+    "poka": "noka"
+  }
+}
