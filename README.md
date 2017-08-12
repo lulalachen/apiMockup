@@ -7,5 +7,6 @@
 - git clone https://github.com/lulalachen/apiMockup.git
 - cd apiMockup
 - npm install
+- modify `src/apiMockup.json` to your API calls
 - npm run build
 - npm run start
